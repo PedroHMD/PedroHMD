@@ -1,4 +1,4 @@
-<img align="right" alt="Imagem datascience" height="380" style="margin-top:50px;" src="imagem_data.png" >
+<img align="right" alt="Imagem datascience" height="380" style="margin-top:50;" src="imagem_data.png" >
 
 <h1 style="display:flex; justify-content:center;">
     <a href="" style="color:black; text-decoration:none;"> <!-- Futuro link do meu site portfolio-->
