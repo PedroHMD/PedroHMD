@@ -16,12 +16,12 @@
 <h3 align="left">Conecte-se comigo:</h3>
 
 <a style="display: flex;
-      width: 100px;
-      height: 30px;
+      width: 100;
+      height: 30;
       background-color: #99B9FF;
       color: white;
       text-align: center;
-      font-size: 16px;
+      font-size: 16;
       font-weight: bold;
       text-decoration: none;
       justify-content:center;
