@@ -1,7 +1,7 @@
 <img align="right" alt="Imagem datascience" height="380" style="margin-top:50;" src="imagem_data.png" >
 
 <h1 style="display:flex; justify-content:center;">
-    <a href="" style="color:black; text-decoration:none;"> <!-- Futuro link do meu site portfolio-->
+    <a href="https://pedromiranda.site" style="color:black; text-decoration:none;"> <!-- Futuro link do meu site portfolio-->
      <img align="center" alt="Logo python" width="36px" src="animacao_python.gif">
      <span style="text-decoration:none;">Pedro Miranda</span>
      <img align="center" alt="Logo python" width="36px" src="animacao_python.gif">
