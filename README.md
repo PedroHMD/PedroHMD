@@ -8,7 +8,7 @@
     </a>
 </h1>
 
-<p align="justify">Sou um Analista de Dados com experiência em programação Python, com foco em análise de dados e desenvolvimento web. Utilizo bibliotecas como Matplotlib, NumPy e Pandas para manipulação, análise e visualização de dados. Além disso, tenho conhecimentos em Django, um framework de desenvolvimento web, e habilidades em Java, REST API, HTML, CSS e Git.
+<p align="justify">Busco ser um Analista de Dados, experiência em programação Python com foco em análise de dados. Utilizo bibliotecas como Matplotlib, NumPy e Pandas para manipulação, análise e visualização de dados. Além disso, tenho conhecimentos em Django, um framework de desenvolvimento web, e habilidades em Java, REST API, HTML, CSS e Git.
 <!--
 [![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://elidianaandrade.github.io/)
 [![GitHub Page](https://img.shields.io/badge/elidianaandrade.github.io-67136f?style=for-the-badge)](https://elidianaandrade.github.io/)
